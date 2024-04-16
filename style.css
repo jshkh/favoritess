@@ -1,0 +1,12 @@
+html {
+  background-color: teal;
+}
+
+body {
+  font-family: Times "Times New Roman", sans-serif;
+  background-color: purple;
+  border: solid;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150 px 50 px;
+}
